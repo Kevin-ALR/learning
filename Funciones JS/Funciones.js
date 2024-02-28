@@ -1,4 +1,4 @@
-let a = 7, b = 4, c;
+let a = 7, b = 4, c, d;
 
 //Ejemplo de procedimiento (Funcion que no retorna valor)
 function sumaProcedimiento(a,b){
